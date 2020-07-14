@@ -3,13 +3,13 @@
 
 [![Twitter: afor_abhishek](https://img.shields.io/twitter/follow/afor_abhishek?style=social)](https://twitter.com/afor_abhishek)
 [![Linkedin: abhishekmamdapure](https://img.shields.io/badge/-abhishekmamdapure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekmamdapure/)](https://www.linkedin.com/in/abhishekmamdapure/)
-
-[![GitHub abhishekmamdapure](https://img.shields.io/github/followers/abhishekmamdapure?label=follow&style=social)](https://github.com/abhishekmamdapure)
 [![Medium: mamdapureabhishek](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mamdapureabhishek)
 
 
 
+
 <img align='right' src="profile.png" width="130">
+*Scan for PORTFOLIO*
 
 
 
