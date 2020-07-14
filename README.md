@@ -1,16 +1,15 @@
 <h2> Hi, I'm Abhishek Mamdapure! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"></h2>
 
 
-[![Twitter: afor_abhishek](https://img.shields.io/twitter/follow/afor_abhishek?style=social)](https://twitter.com/afor_abhishek)
 [![Linkedin: abhishekmamdapure](https://img.shields.io/badge/-abhishekmamdapure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishekmamdapure/)](https://www.linkedin.com/in/abhishekmamdapure/)
 [![Medium: mamdapureabhishek](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mamdapureabhishek)
+[![Twitter: afor_abhishek](https://img.shields.io/twitter/follow/afor_abhishek?style=social)](https://twitter.com/afor_abhishek)
 
+<img align='right' src="http://api.qrserver.com/v1/create-qr-code/?color=000000&amp;bgcolor=FFFFFF&amp;data=https%3A%2F%2Fabhishekmamdapure.github.io%2F&amp;qzone=3&amp;margin=0&amp;size=250x250&amp;ecc=L" alt="qr code" width="130">
 
-
-
-<img align='right' src="profile.png" width="130">
-*Scan for PORTFOLIO*
-
+* M.Tech in Mathematical Modeling from University of Pune
+* Tech Stack: <b> PYTHON,R,C,CSS,HTML,SCI-LAB </b> 
+* Scan QR-code to see my portfolio
 
 
 
