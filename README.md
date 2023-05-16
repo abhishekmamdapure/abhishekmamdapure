@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building a cutting-edge data analytics platform that leverages the latest Machine Learning and AI algorithms to provide actionable insights to businesses.
+🔭 Building a cutting-edge data analytics products that leverages the latest AI algorithms, LLM's to provide actionable insights to businesses.
 
 
 ## 🌐 Socials:
